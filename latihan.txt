@@ -1,1 +1,3 @@
-latihan2
+latihan
+
+belajar GIT
