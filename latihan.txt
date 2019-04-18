@@ -5,4 +5,4 @@ umur saya masih 20an lah ya
 nama panggilan saya unique
 
 
-mari kita latihan git
+mari kita latihan git version control
