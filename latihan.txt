@@ -1,8 +1,7 @@
 latihan
-nama saya unique princilianna audry
-asal saya dari malang
-umur saya masih 20an lah ya
-nama panggilan saya unique
+nama saya audry princilianna unique
+umur saya 21 tahun
+saya lulusan matematika unair 2018
 
 
 mari kita latihan git semantic control
